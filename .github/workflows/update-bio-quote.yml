@@ -2,11 +2,9 @@ name: Update README with a new biology quote
 
 on:
   schedule:
-    - cron: "0 0 * * *" # ogni giorno a mezzanotte UTC
-  workflow_dispatch:
-
-permissions:
-  contents: write  # permette al GITHUB_TOKEN di fare push sul repo
+    # Esegue l'azione ogni giorno a mezzanotte UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Permette l'esecuzione manuale
 
 jobs:
   update-readme:
@@ -14,22 +12,16 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v3
-        with:
-          persist-credentials: true
 
       - name: Update README
         run: |
-          # Conta quante citazioni ci sono
-          TOTAL=$(jq length quotes.json)
-          # Scegli un indice casuale
-          INDEX=$(( RANDOM % TOTAL ))
-          # Prendi la citazione e autore
-          QUOTE_CONTENT=$(jq -r ".[$INDEX].content" quotes.json)
-          QUOTE_AUTHOR=$(jq -r ".[$INDEX].author" quotes.json)
-
+          # Recupera una citazione casuale (tag science o nature)
+          QUOTE_JSON=$(curl -s "https://api.quotable.io/random?tags=science|nature")
+          QUOTE_CONTENT=$(echo $QUOTE_JSON | jq -r '.content')
+          QUOTE_AUTHOR=$(echo $QUOTE_JSON | jq -r '.author')
           FORMATTED_QUOTE="> *“$QUOTE_CONTENT”*<br>— $QUOTE_AUTHOR"
 
-          # Sostituisci tra i marker
+          # Sostituisce il contenuto tra i marker nel README
           sed -i '/<!--START_BIO_QUOTE-->/, /<!--END_BIO_QUOTE-->/c\<!--START_BIO_QUOTE-->\n'"$FORMATTED_QUOTE"'\n<!--END_BIO_QUOTE-->' README.md
 
       - name: Commit changes
@@ -37,6 +29,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
+          # Commit solo se ci sono modifiche
           git diff --staged --quiet || git commit -m "style: ✨ Update daily biology quote"
           git push
-
