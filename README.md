@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi! I'm Flavio Orizio 👋<br><br>I'm a Data Scientist and Biologist.<br><br>🔭 I'm currently working on:<br>Deep Learning and NLP projects aimed at optimizing business processes.<br><br>Developing solutions based on Azure OpenAI and Document Intelligence.<br><br>Practical applications of the techniques learned during my Master's in AI Engineering.<br><br>🌱 I'm currently learning:<br>Advanced Artificial Intelligence architectures and MLOps.<br><br>Tools and best practices for deploying AI models into production.<br><br>New techniques in Computer Vision and Generative AI.<br><br>🤝 I'm looking to collaborate on:<br>Open-source projects related to Data Science, Machine Learning, or AI.<br><br>Challenges that involve applying Large Language Models (LLMs).<br><br>Initiatives that combine biology/life sciences with data analysis.<br><br>Thanks for visiting my profile!
-
+Hi! I'm Flavio Orizio 👋<br><br>I'm a Data Scientist and Biologist.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/flavio-orizio) 
