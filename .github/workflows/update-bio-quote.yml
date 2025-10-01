@@ -14,21 +14,30 @@ jobs:
 
       - name: Update README
         run: |
-          # Prende una citazione casuale dall'API Quote Garden
+          # Scarica una citazione casuale dalla Quote Garden API
           QUOTE_JSON=$(curl -s "https://quote-garden.onrender.com/api/v3/quotes/random?genre=science")
-          QUOTE_CONTENT=$(echo $QUOTE_JSON | jq -r '.data[0].quoteText')
-          QUOTE_AUTHOR=$(echo $QUOTE_JSON | jq -r '.data[0].quoteAuthor')
 
-          # Se per qualche motivo è vuoto, metti un fallback
-          if [ -z "$QUOTE_CONTENT" ] || [ "$QUOTE_CONTENT" = "null" ]; then
+          # Controlla se il JSON è valido
+          if ! echo "$QUOTE_JSON" | jq . >/dev/null 2>&1; then
             QUOTE_CONTENT="La scienza è organizzata conoscenza."
             QUOTE_AUTHOR="Herbert Spencer"
+          else
+            QUOTE_CONTENT=$(echo "$QUOTE_JSON" | jq -r '.data[0].quoteText // empty')
+            QUOTE_AUTHOR=$(echo "$QUOTE_JSON" | jq -r '.data[0].quoteAuthor // empty')
+
+            # Se i campi sono vuoti, usa il fallback
+            if [ -z "$QUOTE_CONTENT" ]; then
+              QUOTE_CONTENT="La scienza è organizzata conoscenza."
+              QUOTE_AUTHOR="Herbert Spencer"
+            fi
           fi
 
-          FORMATTED_QUOTE="> *“$QUOTE_CONTENT”*<br>— $QUOTE_AUTHOR"
+          # Format della citazione in modo sicuro per sed
+          FORMATTED_QUOTE=$(printf "> *“%s”*<br>— %s" "$QUOTE_CONTENT" "$QUOTE_AUTHOR")
 
-          # Sostituisce il contenuto tra i marker
+          # Sostituisce il contenuto tra i marker nel README
           sed -i '/<!--START_BIO_QUOTE-->/, /<!--END_BIO_QUOTE-->/c\<!--START_BIO_QUOTE-->\n'"$FORMATTED_QUOTE"'\n<!--END_BIO_QUOTE-->' README.md
+        shell: bash
 
       - name: Commit changes
         run: |
