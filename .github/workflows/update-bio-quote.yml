@@ -1,0 +1,36 @@
+name: Update README with a new biology quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          # Conta quante citazioni ci sono
+          TOTAL=$(jq length quotes.json)
+          # Scegli un indice casuale
+          INDEX=$(( RANDOM % TOTAL ))
+          # Prendi la citazione e autore
+          QUOTE_CONTENT=$(jq -r ".[$INDEX].content" quotes.json)
+          QUOTE_AUTHOR=$(jq -r ".[$INDEX].author" quotes.json)
+
+          FORMATTED_QUOTE="> *“$QUOTE_CONTENT”*<br>— $QUOTE_AUTHOR"
+
+          # Sostituisci tra i marker
+          sed -i '/<!--START_BIO_QUOTE-->/, /<!--END_BIO_QUOTE-->/c\<!--START_BIO_QUOTE-->\n'"$FORMATTED_QUOTE"'\n<!--END_BIO_QUOTE-->' README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "style: ✨ Update daily biology quote"
+          git push
