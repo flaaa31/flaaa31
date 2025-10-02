@@ -11,5 +11,6 @@ Hi! I'm Flavio Orizio 👋<br><br>I'm a Data Scientist and Biologist.<br><br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+### Random Science Quote
+![.](https://science-quotes-api-simple.vercel.app/api/index)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
