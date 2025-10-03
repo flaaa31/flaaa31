@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi! I'm Flavio Orizio 👋<br><br>I'm a Data Scientist and Biologist.<br><br>
 
+![](https://img.shields.io/badge/dynamic/json?color=blue&label=Science%20Quote&query=quote&url=https://science-quotes-api-simple.vercel.app/api/index)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/flavio-orizio) 
 
@@ -9,5 +11,5 @@ Hi! I'm Flavio Orizio 👋<br><br>I'm a Data Scientist and Biologist.<br><br>
 
 
 
-![](https://img.shields.io/badge/dynamic/json?color=blue&label=Science%20Quote&query=quote&url=https://science-quotes-api-simple.vercel.app/api/index)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
