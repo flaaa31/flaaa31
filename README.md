@@ -5,23 +5,30 @@ Hi! I'm Flavio Orizio 👋
 
 <br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+Biologist;Exploring+Genomics+with+AI;Analyzing+DNA...;Training+Neural+Networks..." alt="Typing SVG" />
-  </a>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+Biologist;Exploring+Genomics+with+AI;Analyzing+DNA...;Training+Neural+Networks..." alt="Typing SVG" />
+</a>
+
+<br>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
+<!-- INIZIO TABELLA TECH STACK & POKEMON -->
 <table>
   <tr>
-    <td align="center" valign="middle" width="15%">
-      </td>
+    <!-- POKÉMON BIO (SINISTRA) -->
+    <td align="center" valign="middle" width="20%">
+      <!-- POKE_BIO_START -->
+      ###
+      <!-- POKE_BIO_END -->
+    </td>
 
-    <td align="center" width="70%">
-      <h1>💻 Tech Stack & Lab:</h1>
+    <!-- TECH STACK (CENTRO) -->
+    <td align="center" width="60%">
+      <h2>💻 Tech Stack & Lab</h2>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
       <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
       <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
@@ -36,11 +43,24 @@ Hi! I'm Flavio Orizio 👋
       <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
     </td>
 
-    <td align="center" valign="middle" width="15%">
-      </td>
+    <!-- POKÉMON AI (DESTRA) -->
+    <td align="center" valign="middle" width="20%">
+      <!-- POKE_AI_START -->
+      ###
+      <!-- POKE_AI_END -->
+    </td>
   </tr>
 </table>
+<!-- FINE TABELLA TECH STACK -->
+
 </div>
 
 <br>
 <br>
+
+<!-- SEZIONE CITAZIONI -->
+<!-- DAILY_QUOTES_START -->
+###
+<!-- DAILY_QUOTES_END -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
