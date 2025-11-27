@@ -3,13 +3,14 @@ import random
 import os
 
 def load_random_quote(filename):
-    with open(filename, 'r', encoding='utf-8') as f:
-        quotes = json.load(f)
-    return random.choice(quotes)
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            quotes = json.load(f)
+        return random.choice(quotes)
+    except Exception as e:
+        return {"quote": "Error loading quote", "author": "System"}
 
 def generate_html(bio_quote, ai_quote):
-    # Qui definiamo l'aspetto delle citazioni.
-    # Usiamo HTML semplice per garantire che si veda bene ovunque.
     return f"""
 <table align="center">
   <tr>
@@ -40,6 +41,7 @@ def update_readme():
         readme_lines = f.readlines()
     
     # 4. Sostituisci la parte tra i marcatori
+    # IMPORTANTE: I marcatori devono includere il ritorno a capo \n per essere riconosciuti
     start_marker = '\n'
     end_marker = '\n'
     
@@ -48,19 +50,22 @@ def update_readme():
     found = False
     
     for line in readme_lines:
+        # strip() rimuove spazi vuoti inizio/fine per fare il confronto sicuro
         if line.strip() == start_marker.strip():
             in_zone = True
             found = True
             new_readme.append(start_marker)
-            new_readme.append(new_content + '\n') # Inseriamo il nuovo contenuto
+            new_readme.append(new_content + '\n') 
         elif line.strip() == end_marker.strip():
             in_zone = False
             new_readme.append(end_marker)
         elif not in_zone:
+            # Aggiunge la riga solo se NON siamo dentro la zona da sostituire
             new_readme.append(line)
             
     if not found:
         print("Errore: Marcatori non trovati nel README!")
+        # Se non trova i marker, non sovrascrivere il file per sicurezza
         return
 
     # 5. Scrivi il file aggiornato
