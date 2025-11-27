@@ -3,8 +3,8 @@ import random
 import sys
 
 # --- CONFIGURAZIONE POKÉMON ---
-BIO_POKEMON_IDS = [151, 251, 577, 578, 579, 132, 382, 718, 898]
-AI_POKEMON_IDS = [137, 233, 474, 81, 82, 462, 374, 375, 376, 649, 990, 993, 997]
+BIO_POKEMON_IDS = [94, 260, 181, 229]
+AI_POKEMON_IDS = [39, 133, 136]
 
 def load_random_quote(filename):
     try:
