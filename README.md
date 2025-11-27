@@ -17,13 +17,11 @@ Hi! I'm Flavio Orizio 👋
 <br>
 
 <!-- INIZIO TABELLA TECH STACK & POKEMON -->
-<!-- NOTA: È tutto allineato a sinistra per evitare errori di Markdown -->
 <table align="center">
 <tr>
 <!-- POKÉMON BIO (SINISTRA) -->
 <td align="center" valign="middle" width="20%">
 <!-- POKE_BIO_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/229.gif" height="80" alt="Pokemon ID 229">
 <!-- POKE_BIO_END -->
 </td>
 <!-- TECH STACK (CENTRO) -->
@@ -45,7 +43,6 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON AI (DESTRA) -->
 <td align="center" valign="middle" width="20%">
 <!-- POKE_AI_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/39.gif" height="80" alt="Pokemon ID 39">
 <!-- POKE_AI_END -->
 </td>
 </tr>
@@ -55,11 +52,27 @@ Hi! I'm Flavio Orizio 👋
 </div>
 
 <br>
+
+<!-- SEZIONE SPECIALE CANE -->
+<div align="center">
+  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="30">
+  <h2>🏆 Chief Happiness Officer 🏆</h2>
+  <i>(Officially the Most Beautiful Dog in the World)</i>
+  <br><br>
+  
+  <!-- CAMBIA 'dog.jpg' CON IL NOME ESATTO DEL FILE CHE HAI CARICATO -->
+  <!-- Se non hai ancora caricato la foto, si vedrà un'icona spezzata finché non la carichi -->
+  <img src="dog.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
+  
+  <br><br>
+  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="30">
+</div>
+
+<br>
 <br>
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Nothing in biology makes sense except in the light of evolution."</em><br><br>— Theodosius Dobzhansky</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Computers are able to see, hear and learn. Welcome to the future."</em><br><br>— Dave Waters</td></tr></table>
 <!-- DAILY_QUOTES_END -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
