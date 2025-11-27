@@ -23,6 +23,7 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON BIO (SINISTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_BIO_START -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/181.gif" height="80" alt="Pokemon ID 181">
 <!-- POKE_BIO_END -->
 </td>
 <!-- TECH STACK (CENTRO) -->
@@ -44,6 +45,7 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON AI (DESTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_AI_START -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/39.gif" height="80" alt="Pokemon ID 39">
 <!-- POKE_AI_END -->
 </td>
 </tr>
@@ -73,6 +75,7 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
+<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"DNA is like a computer program but far, far more advanced than any software ever created."</em><br><br>— Bill Gates</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Computers are able to see, hear and learn. Welcome to the future."</em><br><br>— Dave Waters</td></tr></table>
 <!-- DAILY_QUOTES_END -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
