@@ -63,7 +63,7 @@ Hi! I'm Flavio Orizio 👋
   <br><br>
   
   <!-- Assicurati che il file 'dog.jpg' sia caricato nella repo -->
-  <img src="dog.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
+  <img src="lola.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
   
   <br><br>
   <!-- Decorazione finale sicura -->
