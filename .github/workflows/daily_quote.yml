@@ -1,9 +1,7 @@
 name: Update Daily Quotes
 
-# --- QUESTA È LA PARTE CHE MANCAVA ---
 permissions:
   contents: write
-# -------------------------------------
 
 on:
   schedule:
@@ -31,6 +29,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          # Il comando commit non fallirà se non ci sono cambiamenti
           git commit -m "🔄 Updated Daily Quotes" || exit 0
+          # COMANDO AGGIUNTO: Scarica le tue modifiche prima di caricare le sue
+          git pull --rebase origin main
           git push
