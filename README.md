@@ -11,13 +11,13 @@ Hi! I'm Flavio Orizio 👋<br><br>I'm a Data Scientist and Biologist.<br><br>
   <tbody>
     <tr>
       <td align="center" width="50%">
-        <a href="[https://github.com/flaaa31/flaaa31/blob/main/bio_quotes.json](https://github.com/flaaa31/flaaa31/blob/main/bio_quotes.json)">
-          <img src="[https://github-readme-quotes.vercel.app/quote?url=https://raw.githubusercontent.com/flaaa31/flaaa31/main/bio_quotes.json&theme=tokyonight&animation=true&v=2](https://github-readme-quotes.vercel.app/quote?url=https://raw.githubusercontent.com/flaaa31/flaaa31/main/bio_quotes.json&theme=tokyonight&animation=true&v=2)" alt="Biology Quote">
+        <a href="https://gist.github.com/flaaa31">
+          <img src="https://github-readme-quotes-bay.vercel.app/quote?url=https://gist.githubusercontent.com/flaaa31/637a94909edddfa3603262d79338edce/raw/2607be0d6edab9d6bee1786f8cc8355567b8979b/bio_quotes.json&theme=tokyonight&animation=true" alt="Biology Quote">
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="[https://github.com/flaaa31/flaaa31/blob/main/ai_quotes.json](https://github.com/flaaa31/flaaa31/blob/main/ai_quotes.json)">
-          <img src="[https://github-readme-quotes.vercel.app/quote?url=https://raw.githubusercontent.com/flaaa31/flaaa31/main/ai_quotes.json&theme=tokyonight&animation=true&v=2](https://github-readme-quotes.vercel.app/quote?url=https://raw.githubusercontent.com/flaaa31/flaaa31/main/ai_quotes.json&theme=tokyonight&animation=true&v=2)" alt="AI Quote">
+        <a href="https://gist.github.com/flaaa31">
+          <img src="https://github-readme-quotes-bay.vercel.app/quote?url=https://gist.githubusercontent.com/flaaa31/5ad1c4b4cce2c09aa048e5c38d06feb5/raw/d5dbfbfd9a523433e42ce9ced2fa664674a1cd20/ai_quotes.json&theme=tokyonight&animation=true" alt="AI Quote">
         </a>
       </td>
     </tr>
