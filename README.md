@@ -2,18 +2,26 @@
 Hi! I'm Flavio Orizio 👋<br><br>I'm a Data Scientist and Biologist.<br><br>
 
 <table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/flaaa31/flaaa31/blob/main/bio_quotes.json">
-        <img src="https://github-readme-quotes-bay.vercel.app/quote?url=https://raw.githubusercontent.com/flaaa31/flaaa31/main/bio_quotes.json&theme=tokyonight&animation=true&title=Biology+Quote" alt="Biology Quote">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/flaaa31/flaaa31/blob/main/ai_quotes.json">
-        <img src="https://github-readme-quotes-bay.vercel.app/quote?url=https://raw.githubusercontent.com/flaaa31/flaaa31/main/ai_quotes.json&theme=tokyonight&animation=true&title=AI+Quote" alt="AI Quote">
-      </a>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="center">🧬 Daily Bio Quote</th>
+      <th align="center">🤖 Daily AI Quote</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/flaaa31/flaaa31/blob/main/bio_quotes.json">
+          <img src="https://github-readme-quotes-bay.vercel.app/quote?url=https://raw.githubusercontent.com/flaaa31/flaaa31/main/bio_quotes.json&theme=tokyonight&animation=true" alt="Biology Quote">
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/flaaa31/flaaa31/blob/main/ai_quotes.json">
+          <img src="https://github-readme-quotes-bay.vercel.app/quote?url=https://raw.githubusercontent.com/flaaa31/flaaa31/main/ai_quotes.json&theme=tokyonight&animation=true" alt="AI Quote">
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ## 🌐 Socials:
