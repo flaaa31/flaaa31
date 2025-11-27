@@ -12,7 +12,7 @@ Hi! I'm Flavio Orizio 👋
 <br>
 <br>
 
-<!-- SEPARATORE NUOVO E STABILE (Rainbow Line) -->
+<!-- SEPARATORE STABILE -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br>
@@ -23,7 +23,6 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON BIO (SINISTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_BIO_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/229.gif" height="80" alt="Pokemon ID 229">
 <!-- POKE_BIO_END -->
 </td>
 <!-- TECH STACK (CENTRO) -->
@@ -45,15 +44,15 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON AI (DESTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_AI_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133.gif" height="80" alt="Pokemon ID 133">
 <!-- POKE_AI_END -->
 </td>
 </tr>
 </table>
 <!-- FINE TABELLA TECH STACK -->
 
-<!-- CERTIFICAZIONI STUPIDE -->
 <br>
+
+<!-- CERTIFICAZIONI STUPIDE -->
 <h3>🏆 Unofficial Certifications</h3>
 <img src="https://img.shields.io/badge/Professional-Googler-blue?style=for-the-badge&logo=google" alt="Professional Googler">
 <img src="https://img.shields.io/badge/Stack%20Overflow-Copy%20%26%20Paste%20Expert-orange?style=for-the-badge&logo=stackoverflow" alt="Copy Paste Expert">
@@ -68,15 +67,15 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE SPECIALE CANE -->
 <div align="center">
-<br>
-<h2>🏆 Chief Happiness Officer 🏆</h2>
-<i>(Officially the Most Beautiful Dog in the World)</i>
-<br><br>
-
-<img src="lola.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
-
-<br><br>
-<h1>✨ 🐶 ✨</h1>
+  <br>
+  <h2>🏆 Chief Happiness Officer 🏆</h2>
+  <i>(Officially the Most Beautiful Dog in the World)</i>
+  <br><br>
+  
+  <img src="lola.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
+  
+  <br><br>
+  <h1>✨ 🐶 ✨</h1>
 </div>
 
 <br>
@@ -84,16 +83,32 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Biology is the only science where multiplication is the same thing as division."</em><br><br>— Unknown</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Predicting the future isn't magic, it's artificial intelligence."</em><br><br>— Dave Waters</td></tr></table>
 <!-- DAILY_QUOTES_END -->
 
-<!-- FOOTER TRAPPOLA -->
 <br>
 <br>
+
+<!-- NUOVA SEZIONE: CARICAMENTO INFINITO + CONTATORE RETRO -->
 <div align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-<img src="https://img.shields.io/badge/⛔%20DANGER-DO%20NOT%20CLICK-red?style=for-the-badge" alt="Do Not Click">
-</a>
+  <h3>🧠 Model Training Status:</h3>
+  <!-- Barra di caricamento bloccata al 99% -->
+  <img src="https://progress-bar.dev/99/?scale=100&title=Training...&width=400&color=32cd32&suffix=%" alt="Model Training">
+  <br>
+  <sub>(It's been like this for 3 days...)</sub>
+  
+  <br><br>
+  
+  <!-- Contatore Retro -->
+  <img src="https://komarev.com/ghpvc/?username=flaaa31&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+</div>
+
+<br>
+
+<!-- FOOTER TRAPPOLA -->
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/⛔%20DANGER-DO%20NOT%20CLICK-red?style=for-the-badge" alt="Do Not Click">
+  </a>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
