@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/132.gif" width="50" style="margin-bottom: 20px;" alt="Ditto" />
+  <br>
+  
+
 # 💫 About Me:
 Hi! I'm Flavio Orizio 👋
 
@@ -14,21 +20,10 @@ Hi! I'm Flavio Orizio 👋
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Socials:
-<div align="center">
-  <a href="https://linkedin.com/in/flavio-orizio">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
 
-<br>
 
 # 💻 Tech Stack & Lab:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/132.gif" width="50" style="margin-bottom: 20px;" alt="Ditto" />
-  <br>
-  
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
