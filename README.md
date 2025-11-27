@@ -1,4 +1,21 @@
 
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>🧬 Daily Bio Quote</strong><br><br>
+      <em>"Life creates order from disorder."</em><br><br>
+      — Erwin Schrödinger
+    </td>
+    <td align="center" width="50%">
+      <strong>🤖 Daily AI Quote</strong><br><br>
+      <em>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."</em><br><br>
+      — Edsger W. Dijkstra
+    </td>
+  </tr>
+</table>
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/132.gif" width="50" style="margin-bottom: 20px;" alt="Ditto" />
   <br>
