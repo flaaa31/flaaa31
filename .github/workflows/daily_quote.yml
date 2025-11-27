@@ -1,9 +1,14 @@
 name: Update Daily Quotes
 
+# --- QUESTA È LA PARTE CHE MANCAVA ---
+permissions:
+  contents: write
+# -------------------------------------
+
 on:
   schedule:
     - cron: '0 8 * * *' # Esegue ogni giorno alle 8:00 UTC
-  workflow_dispatch: # Permette di eseguirlo a mano quando vuoi testare
+  workflow_dispatch: # Permette di eseguirlo a mano
 
 jobs:
   update-readme:
@@ -26,5 +31,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "🔄 Updated Daily Quotes" || echo "No changes to commit"
+          # Il comando commit non fallirà se non ci sono cambiamenti
+          git commit -m "🔄 Updated Daily Quotes" || exit 0
           git push
