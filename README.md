@@ -62,7 +62,7 @@ Hi! I'm Flavio Orizio 👋
   
   <!-- CAMBIA 'dog.jpg' CON IL NOME ESATTO DEL FILE CHE HAI CARICATO -->
   <!-- Se non hai ancora caricato la foto, si vedrà un'icona spezzata finché non la carichi -->
-  <img src="dog.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
+  <img src="lola.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
   
   <br><br>
   <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="30">
