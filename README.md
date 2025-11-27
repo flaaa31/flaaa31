@@ -12,8 +12,8 @@ Hi! I'm Flavio Orizio 👋
 <br>
 <br>
 
-<!-- SEPARATORE STABILE -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%">
+<!-- SEPARATORE NUOVO E STABILE (Rainbow Line) -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br>
 
@@ -66,15 +66,15 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE SPECIALE CANE -->
 <div align="center">
-  <br>
-  <h2>🏆 Chief Happiness Officer 🏆</h2>
-  <i>(Officially the Most Beautiful Dog in the World)</i>
-  <br><br>
-  
-  <img src="lola.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
-  
-  <br><br>
-  <h1>✨ 🐶 ✨</h1>
+<br>
+<h2>🏆 Chief Happiness Officer 🏆</h2>
+<i>(Officially the Most Beautiful Dog in the World)</i>
+<br><br>
+
+<img src="dog.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
+
+<br><br>
+<h1>✨ 🐶 ✨</h1>
 </div>
 
 <br>
@@ -88,9 +88,9 @@ Hi! I'm Flavio Orizio 👋
 <br>
 <br>
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/⛔%20DANGER-DO%20NOT%20CLICK-red?style=for-the-badge" alt="Do Not Click">
-  </a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<img src="https://img.shields.io/badge/⛔%20DANGER-DO%20NOT%20CLICK-red?style=for-the-badge" alt="Do Not Click">
+</a>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
