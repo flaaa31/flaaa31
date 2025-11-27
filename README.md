@@ -12,8 +12,8 @@ Hi! I'm Flavio Orizio 👋
 <br>
 <br>
 
-<!-- SEPARATORE STABILE -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- SEPARATORE STABILE (Linea Sfumata) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%">
 
 <br>
 
@@ -23,7 +23,6 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON BIO (SINISTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_BIO_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/260.gif" height="80" alt="Pokemon ID 260">
 <!-- POKE_BIO_END -->
 </td>
 <!-- TECH STACK (CENTRO) -->
@@ -45,7 +44,6 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON AI (DESTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_AI_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/136.gif" height="80" alt="Pokemon ID 136">
 <!-- POKE_AI_END -->
 </td>
 </tr>
@@ -56,18 +54,18 @@ Hi! I'm Flavio Orizio 👋
 
 <br>
 
-<!-- SEZIONE SPECIALE CANE (Link corretti) -->
+<!-- SEZIONE SPECIALE CANE -->
 <div align="center">
   <h2>🏆 Chief Happiness Officer 🏆</h2>
   <i>(Officially the Most Beautiful Dog in the World)</i>
   <br><br>
   
-  <!-- Assicurati che il file 'dog.jpg' sia caricato nella repo -->
+  <!-- FOTO DEL CANE -->
   <img src="lola.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
   
   <br><br>
-  <!-- Decorazione finale sicura -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="40" />
+  <!-- DECORAZIONE FINALE SICURA (Emoji Gigante) -->
+  <h1>✨ 🐶 ✨</h1>
 </div>
 
 <br>
@@ -75,7 +73,6 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"DNA is like a computer program but far, far more advanced than any software ever created."</em><br><br>— Bill Gates</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Artificial intelligence is the new electricity."</em><br><br>— Andrew Ng</td></tr></table>
 <!-- DAILY_QUOTES_END -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
