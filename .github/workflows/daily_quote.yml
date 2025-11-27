@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          ref: main # Forza il checkout del branch principale
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -28,8 +30,20 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Mette in coda le modifiche
           git add README.md
-          git commit -m "🔄 Updated Daily Quotes" || exit 0
-          # COMANDO AGGIUNTO: Scarica le tue modifiche prima di caricare le sue
-          git pull --rebase origin main
-          git push
+          
+          # Se non c'è nulla da cambiare, esce senza errori
+          if git diff --staged --quiet; then
+            echo "Nessuna modifica rilevata."
+            exit 0
+          fi
+          
+          git commit -m "🔄 Updated Daily Quotes"
+          
+          # PARTE CRUCIALE: Scarica le tue modifiche e applica le sue sopra
+          # Se fallisce al primo colpo, riprova una volta (utile in caso di conflitti temporanei)
+          git pull --rebase origin main || (git rebase --abort && git pull origin main && git commit --amend --no-edit)
+          
+          git push origin main
