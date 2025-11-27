@@ -1,46 +1,24 @@
-
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong>🧬 Daily Bio Quote</strong><br><br>
-      <em>"Life creates order from disorder."</em><br><br>
-      — Erwin Schrödinger
-    </td>
-    <td align="center" width="50%">
-      <strong>🤖 Daily AI Quote</strong><br><br>
-      <em>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."</em><br><br>
-      — Edsger W. Dijkstra
-    </td>
-  </tr>
-</table>
-
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/132.gif" width="50" style="margin-bottom: 20px;" alt="Ditto" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/094.gif" width="50" style="margin-bottom: 20px;" alt="Ditto" />
   <br>
-  
 
 # 💫 About Me:
 Hi! I'm Flavio Orizio 👋
 
-<!-- DAILY_QUOTES_START -->
+<br>
 
-<!-- DAILY_QUOTES_END -->
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+Biologist;Exploring+Genomics+with+AI;Analyzing+DNA...;Training+Neural+Networks..." alt="Typing SVG" />
   </a>
 </div>
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
 # 💻 Tech Stack & Lab:
 
+<div align="center">
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
@@ -52,3 +30,10 @@ Hi! I'm Flavio Orizio 👋
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 </div>
+
+<br>
+<br>
+
+<!-- DAILY_QUOTES_START -->
+
+<!-- DAILY_QUOTES_END -->
