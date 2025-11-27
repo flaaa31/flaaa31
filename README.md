@@ -1,29 +1,6 @@
 # 💫 About Me:
 Hi! I'm Flavio Orizio 👋<br><br>I'm a Data Scientist and Biologist.<br><br>
 
-<table align="center" style="border: none;">
-  <thead>
-    <tr>
-      <th align="center">🧬 Daily Bio Quote</th>
-      <th align="center">🤖 Daily AI Quote</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://gist.github.com/flaaa31">
-          <img src="https://github-readme-quotes-bay.vercel.app/quote?url=https://gist.githubusercontent.com/flaaa31/637a94909edddfa3603262d79338edce/raw/2607be0d6edab9d6bee1786f8cc8355567b8979b/bio_quotes.json&theme=tokyonight&animation=true" alt="Biology Quote">
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://gist.github.com/flaaa31">
-          <img src="https://github-readme-quotes-bay.vercel.app/quote?url=https://gist.githubusercontent.com/flaaa31/5ad1c4b4cce2c09aa048e5c38d06feb5/raw/d5dbfbfd9a523433e42ce9ced2fa664674a1cd20/ai_quotes.json&theme=tokyonight&animation=true" alt="AI Quote">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/flavio-orizio) 
 

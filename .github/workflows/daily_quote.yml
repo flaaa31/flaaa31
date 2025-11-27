@@ -1,0 +1,30 @@
+name: Update Daily Quotes
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Esegue ogni giorno alle 8:00 UTC
+  workflow_dispatch: # Permette di eseguirlo a mano quando vuoi testare
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Run Python Script
+        run: python update_quotes.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔄 Updated Daily Quotes" || echo "No changes to commit"
+          git push

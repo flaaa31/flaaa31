@@ -1,0 +1,73 @@
+import json
+import random
+import os
+
+def load_random_quote(filename):
+    with open(filename, 'r', encoding='utf-8') as f:
+        quotes = json.load(f)
+    return random.choice(quotes)
+
+def generate_html(bio_quote, ai_quote):
+    # Qui definiamo l'aspetto delle citazioni.
+    # Usiamo HTML semplice per garantire che si veda bene ovunque.
+    return f"""
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>🧬 Daily Bio Quote</strong><br><br>
+      <em>"{bio_quote['quote']}"</em><br><br>
+      — {bio_quote['author']}
+    </td>
+    <td align="center" width="50%">
+      <strong>🤖 Daily AI Quote</strong><br><br>
+      <em>"{ai_quote['quote']}"</em><br><br>
+      — {ai_quote['author']}
+    </td>
+  </tr>
+</table>
+"""
+
+def update_readme():
+    # 1. Carica le citazioni
+    bio = load_random_quote('bio_quotes.json')
+    ai = load_random_quote('ai_quotes.json')
+    
+    # 2. Prepara il nuovo testo
+    new_content = generate_html(bio, ai)
+    
+    # 3. Leggi il README attuale
+    with open('README.md', 'r', encoding='utf-8') as f:
+        readme_lines = f.readlines()
+    
+    # 4. Sostituisci la parte tra i marcatori
+    start_marker = '\n'
+    end_marker = '\n'
+    
+    new_readme = []
+    in_zone = False
+    found = False
+    
+    for line in readme_lines:
+        if line.strip() == start_marker.strip():
+            in_zone = True
+            found = True
+            new_readme.append(start_marker)
+            new_readme.append(new_content + '\n') # Inseriamo il nuovo contenuto
+        elif line.strip() == end_marker.strip():
+            in_zone = False
+            new_readme.append(end_marker)
+        elif not in_zone:
+            new_readme.append(line)
+            
+    if not found:
+        print("Errore: Marcatori non trovati nel README!")
+        return
+
+    # 5. Scrivi il file aggiornato
+    with open('README.md', 'w', encoding='utf-8') as f:
+        f.writelines(new_readme)
+    
+    print("README aggiornato con successo!")
+
+if __name__ == "__main__":
+    update_readme()
