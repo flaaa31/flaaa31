@@ -12,21 +12,21 @@ Hi! I'm Flavio Orizio 👋
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- SEPARATORE STABILE -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br>
 
 <!-- INIZIO TABELLA TECH STACK & POKEMON -->
-<table align="center">
+<table align="center" style="border: none;">
 <tr>
 <!-- POKÉMON BIO (SINISTRA) -->
-<td align="center" valign="middle" width="20%">
+<td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_BIO_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/181.gif" height="80" alt="Pokemon ID 181">
 <!-- POKE_BIO_END -->
 </td>
 <!-- TECH STACK (CENTRO) -->
-<td align="center" width="60%">
+<td align="center" width="60%" style="border: none;">
 <h2>💻 Tech Stack & Lab</h2>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
@@ -42,9 +42,8 @@ Hi! I'm Flavio Orizio 👋
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
 </td>
 <!-- POKÉMON AI (DESTRA) -->
-<td align="center" valign="middle" width="20%">
+<td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_AI_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/136.gif" height="80" alt="Pokemon ID 136">
 <!-- POKE_AI_END -->
 </td>
 </tr>
@@ -55,19 +54,18 @@ Hi! I'm Flavio Orizio 👋
 
 <br>
 
-<!-- SEZIONE SPECIALE CANE -->
+<!-- SEZIONE SPECIALE CANE (Link corretti) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="30">
   <h2>🏆 Chief Happiness Officer 🏆</h2>
   <i>(Officially the Most Beautiful Dog in the World)</i>
   <br><br>
   
-  <!-- CAMBIA 'dog.jpg' CON IL NOME ESATTO DEL FILE CHE HAI CARICATO -->
-  <!-- Se non hai ancora caricato la foto, si vedrà un'icona spezzata finché non la carichi -->
-  <img src="lola.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
+  <!-- Assicurati che il file 'dog.jpg' sia caricato nella repo -->
+  <img src="dog.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
   
   <br><br>
-  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="30">
+  <!-- Decorazione finale sicura -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="40" />
 </div>
 
 <br>
@@ -75,7 +73,6 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change."</em><br><br>— Charles Darwin</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Artificial intelligence is the new electricity."</em><br><br>— Andrew Ng</td></tr></table>
 <!-- DAILY_QUOTES_END -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
