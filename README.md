@@ -23,7 +23,6 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON BIO (SINISTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_BIO_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/229.gif" height="80" alt="Pokemon ID 229">
 <!-- POKE_BIO_END -->
 </td>
 <!-- TECH STACK (CENTRO) -->
@@ -45,7 +44,6 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON AI (DESTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_AI_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/39.gif" height="80" alt="Pokemon ID 39">
 <!-- POKE_AI_END -->
 </td>
 </tr>
@@ -74,7 +72,7 @@ Hi! I'm Flavio Orizio 👋
   <i>(Officially the Most Beautiful Dog in the World)</i>
   <br><br>
   
-  <img src="lola.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
+  <img src="dog.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
   
   <br><br>
   <h1>✨ 🐶 ✨</h1>
@@ -85,24 +83,18 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Biology is the only science where multiplication is the same thing as division."</em><br><br>— Unknown</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Predicting the future isn't magic, it's artificial intelligence."</em><br><br>— Dave Waters</td></tr></table>
 <!-- DAILY_QUOTES_END -->
 
 <br>
 <br>
 
-<!-- NUOVA SEZIONE: CARICAMENTO INFINITO + CONTATORE RETRO -->
+<!-- MODEL TRAINING STATUS (Versione Stabile Shields.io) -->
 <div align="center">
   <h3>🧠 Model Training Status:</h3>
-  <!-- Barra di caricamento bloccata al 99% -->
-  <img src="https://progress-bar.dev/99/?scale=100&title=Training...&width=400&color=32cd32&suffix=%" alt="Model Training">
+  <!-- Badge verde solido che non si rompe mai -->
+  <img src="https://img.shields.io/badge/TRAINING_PROGRESS-99%25-32cd32?style=for-the-badge&logo=githubactions&logoColor=white" alt="Model Training 99%">
   <br>
   <sub>(It's been like this for 3 days...)</sub>
-  
-  <br><br>
-  
-  <!-- Contatore Retro -->
-  <img src="https://komarev.com/ghpvc/?username=flaaa31&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
 </div>
 
 <br>
