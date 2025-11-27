@@ -12,7 +12,7 @@ Hi! I'm Flavio Orizio 👋
 <br>
 <br>
 
-<!-- SEPARATORE STABILE (Linea Sfumata) -->
+<!-- SEPARATORE STABILE -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%">
 
 <br>
@@ -23,7 +23,6 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON BIO (SINISTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_BIO_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/260.gif" height="80" alt="Pokemon ID 260">
 <!-- POKE_BIO_END -->
 </td>
 <!-- TECH STACK (CENTRO) -->
@@ -45,12 +44,21 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON AI (DESTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_AI_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133.gif" height="80" alt="Pokemon ID 133">
 <!-- POKE_AI_END -->
 </td>
 </tr>
 </table>
 <!-- FINE TABELLA TECH STACK -->
+
+<!-- CERTIFICAZIONI STUPIDE -->
+<br>
+<h3>🏆 Unofficial Certifications</h3>
+<img src="https://img.shields.io/badge/Professional-Googler-blue?style=for-the-badge&logo=google" alt="Professional Googler">
+<img src="https://img.shields.io/badge/Stack%20Overflow-Copy%20%26%20Paste%20Expert-orange?style=for-the-badge&logo=stackoverflow" alt="Copy Paste Expert">
+<img src="https://img.shields.io/badge/Works-On%20My%20Machine-red?style=for-the-badge&logo=windows" alt="Works on my machine">
+<br>
+<img src="https://img.shields.io/badge/Powered%20By-Caffeine-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Caffeine">
+<img src="https://img.shields.io/badge/ChatGPT-Prompt%20Engineer-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
 
 </div>
 
@@ -58,15 +66,14 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE SPECIALE CANE -->
 <div align="center">
+  <br>
   <h2>🏆 Chief Happiness Officer 🏆</h2>
   <i>(Officially the Most Beautiful Dog in the World)</i>
   <br><br>
   
-  <!-- FOTO DEL CANE -->
   <img src="lola.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
   
   <br><br>
-  <!-- DECORAZIONE FINALE SICURA (Emoji Gigante) -->
   <h1>✨ 🐶 ✨</h1>
 </div>
 
@@ -75,7 +82,15 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Life creates order from disorder."</em><br><br>— Erwin Schrödinger</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"AI will not replace you. A person using AI will."</em><br><br>— Unknown</td></tr></table>
 <!-- DAILY_QUOTES_END -->
+
+<!-- FOOTER TRAPPOLA -->
+<br>
+<br>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/⛔%20DANGER-DO%20NOT%20CLICK-red?style=for-the-badge" alt="Do Not Click">
+  </a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
