@@ -85,7 +85,7 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Nothing in biology makes sense except in the light of evolution."</em><br><br>— Theodosius Dobzhansky</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Artificial intelligence is the new electricity."</em><br><br>— Andrew Ng</td></tr></table>
+<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Biology is the only science where multiplication is the same thing as division."</em><br><br>— Unknown</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Computers are able to see, hear and learn. Welcome to the future."</em><br><br>— Dave Waters</td></tr></table>
 <!-- DAILY_QUOTES_END -->
 
 <br>
