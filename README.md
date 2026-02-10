@@ -45,7 +45,7 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON AI (DESTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_AI_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133.gif" height="80" alt="Pokemon ID 133">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/136.gif" height="80" alt="Pokemon ID 136">
 <!-- POKE_AI_END -->
 </td>
 </tr>
@@ -85,7 +85,7 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Nothing in biology makes sense except in the light of evolution."</em><br><br>— Theodosius Dobzhansky</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Predicting the future isn't magic, it's artificial intelligence."</em><br><br>— Dave Waters</td></tr></table>
+<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Nothing in biology makes sense except in the light of evolution."</em><br><br>— Theodosius Dobzhansky</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."</em><br><br>— Edsger W. Dijkstra</td></tr></table>
 <!-- DAILY_QUOTES_END -->
 
 <br>
