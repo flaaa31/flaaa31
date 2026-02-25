@@ -23,7 +23,7 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON BIO (SINISTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_BIO_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/181.gif" height="80" alt="Pokemon ID 181">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" height="80" alt="Pokemon ID 94">
 <!-- POKE_BIO_END -->
 </td>
 <!-- TECH STACK (CENTRO) -->
