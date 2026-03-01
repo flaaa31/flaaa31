@@ -23,7 +23,7 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON BIO (SINISTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_BIO_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" height="80" alt="Pokemon ID 94">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/229.gif" height="80" alt="Pokemon ID 229">
 <!-- POKE_BIO_END -->
 </td>
 <!-- TECH STACK (CENTRO) -->
@@ -45,7 +45,7 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON AI (DESTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_AI_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/39.gif" height="80" alt="Pokemon ID 39">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133.gif" height="80" alt="Pokemon ID 133">
 <!-- POKE_AI_END -->
 </td>
 </tr>
