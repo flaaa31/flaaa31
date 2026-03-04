@@ -23,7 +23,7 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON BIO (SINISTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_BIO_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/229.gif" height="80" alt="Pokemon ID 229">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/260.gif" height="80" alt="Pokemon ID 260">
 <!-- POKE_BIO_END -->
 </td>
 <!-- TECH STACK (CENTRO) -->
@@ -85,7 +85,7 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Nothing in biology makes sense except in the light of evolution."</em><br><br>— Theodosius Dobzhansky</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."</em><br><br>— Edsger W. Dijkstra</td></tr></table>
+<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change."</em><br><br>— Charles Darwin</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Artificial intelligence is the new electricity."</em><br><br>— Andrew Ng</td></tr></table>
 <!-- DAILY_QUOTES_END -->
 
 <br>
