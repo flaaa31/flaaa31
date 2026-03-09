@@ -45,7 +45,7 @@ Hi! I'm Flavio Orizio 👋
 <!-- POKÉMON AI (DESTRA) -->
 <td align="center" valign="middle" width="20%" style="border: none;">
 <!-- POKE_AI_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/39.gif" height="80" alt="Pokemon ID 39">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133.gif" height="80" alt="Pokemon ID 133">
 <!-- POKE_AI_END -->
 </td>
 </tr>
@@ -85,7 +85,7 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Life creates order from disorder."</em><br><br>— Erwin Schrödinger</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"AI will not replace you. A person using AI will."</em><br><br>— Unknown</td></tr></table>
+<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Biology is the only science where multiplication is the same thing as division."</em><br><br>— Unknown</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"AI will not replace you. A person using AI will."</em><br><br>— Unknown</td></tr></table>
 <!-- DAILY_QUOTES_END -->
 
 <br>
