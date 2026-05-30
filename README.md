@@ -85,7 +85,7 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Biology is the only science where multiplication is the same thing as division."</em><br><br>— Unknown</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Predicting the future isn't magic, it's artificial intelligence."</em><br><br>— Dave Waters</td></tr></table>
+<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"DNA is like a computer program but far, far more advanced than any software ever created."</em><br><br>— Bill Gates</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Predicting the future isn't magic, it's artificial intelligence."</em><br><br>— Dave Waters</td></tr></table>
 <!-- DAILY_QUOTES_END -->
 
 <br>
