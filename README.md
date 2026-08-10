@@ -85,7 +85,7 @@ Hi! I'm Flavio Orizio 👋
 
 <!-- SEZIONE CITAZIONI -->
 <!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"Life creates order from disorder."</em><br><br>— Erwin Schrödinger</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Predicting the future isn't magic, it's artificial intelligence."</em><br><br>— Dave Waters</td></tr></table>
+<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change."</em><br><br>— Charles Darwin</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Computers are able to see, hear and learn. Welcome to the future."</em><br><br>— Dave Waters</td></tr></table>
 <!-- DAILY_QUOTES_END -->
 
 <br>
