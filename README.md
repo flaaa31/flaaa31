@@ -1,112 +1,74 @@
 <div align="center">
 
-# 💫 About Me:
-Hi! I'm Flavio Orizio 👋
+# Flavio Orizio
 
-<br>
+### Data Analyst · AI & Automation Specialist
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+Biologist;Exploring+Genomics+with+AI;Analyzing+DNA...;Training+Neural+Networks..." alt="Typing SVG" />
-</a>
-
-<br>
-<br>
-
-<!-- SEPARATORE STABILE -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br>
-
-<!-- INIZIO TABELLA TECH STACK & POKEMON -->
-<table align="center" style="border: none;">
-<tr>
-<!-- POKÉMON BIO (SINISTRA) -->
-<td align="center" valign="middle" width="20%" style="border: none;">
-<!-- POKE_BIO_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/260.gif" height="80" alt="Pokemon ID 260">
-<!-- POKE_BIO_END -->
-</td>
-<!-- TECH STACK (CENTRO) -->
-<td align="center" width="60%" style="border: none;">
-<h2>💻 Tech Stack & Lab</h2>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
-<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-<br>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-<br>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-</td>
-<!-- POKÉMON AI (DESTRA) -->
-<td align="center" valign="middle" width="20%" style="border: none;">
-<!-- POKE_AI_START -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/39.gif" height="80" alt="Pokemon ID 39">
-<!-- POKE_AI_END -->
-</td>
-</tr>
-</table>
-<!-- FINE TABELLA TECH STACK -->
-
-<br>
-
-<!-- CERTIFICAZIONI STUPIDE -->
-<h3>🏆 Unofficial Certifications</h3>
-<img src="https://img.shields.io/badge/Professional-Googler-blue?style=for-the-badge&logo=google" alt="Professional Googler">
-<img src="https://img.shields.io/badge/Stack%20Overflow-Copy%20%26%20Paste%20Expert-orange?style=for-the-badge&logo=stackoverflow" alt="Copy Paste Expert">
-<img src="https://img.shields.io/badge/Works-On%20My%20Machine-red?style=for-the-badge&logo=windows" alt="Works on my machine">
-<br>
-<img src="https://img.shields.io/badge/Powered%20By-Caffeine-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Caffeine">
-<img src="https://img.shields.io/badge/ChatGPT-Prompt%20Engineer-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/flavio-orizio)
+[![Email](https://img.shields.io/badge/Email-orizioflavio%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:orizioflavio@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Certifications-333?style=flat-square&logo=googlechrome&logoColor=white)](#)
 
 </div>
 
 <br>
 
-<!-- SEZIONE SPECIALE CANE -->
+## About
+
+I'm a Data Analyst and AI/Automation Specialist with a background in Biology and Bioinformatics. I focus on building data pipelines and AI-driven automation solutions, primarily on Microsoft Azure, and I've worked across both enterprise consulting and clinical/research environments.
+
+Previously a Biologist and Biobank Technician, I transitioned into Data Science and AI through a series of professional master's programs, and I now design and deploy Python-based automation workflows for business and clinical data.
+
+<br>
+
+## Tech Stack
+
+**Languages & Databases**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+**AI & Machine Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Data & BI**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+<br>
+
+## Experience
+
+**Data Analyst & AI Specialist** — NSA S.p.A. (2026)
+
+**Data & AI Consultant** — Able Tech S.P.A. (2024–2025)
+
+**Biobank Technician** — IRCCS Fatebenefratelli (2021–2024)
+
+**Biologist** — Synlab (2020–2021)
+
+<br>
+
+## Education
+
+- **AI Engineering**, Professional Master — ProfessionAI, 2025
+- **Data Science**, Professional Master — ProfessionAI, 2023–2024
+- **Bioinformatics & Data Science**, Professional Master — University of Siena, 2022–2023
+- **MSc Biology** — University of Milano-Bicocca, 2016–2019
+
+---
+
 <div align="center">
-  <br>
-  <h2>🏆 Chief Happiness Officer 🏆</h2>
-  <i>(Officially the Most Beautiful Dog in the World)</i>
-  <br><br>
-  
-  <img src="lola.jpg" width="300" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="My Dog">
-  
-  <br><br>
-  <h1>✨ 🐶 ✨</h1>
+<sub>Berlingo (BS), Italy · orizioflavio@gmail.com</sub>
 </div>
-
-<br>
-<br>
-
-<!-- SEZIONE CITAZIONI -->
-<!-- DAILY_QUOTES_START -->
-<table align="center"><tr><td align="center" width="50%"><strong>🧬 Daily Bio Quote</strong><br><br><em>"It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change."</em><br><br>— Charles Darwin</td><td align="center" width="50%"><strong>🤖 Daily AI Quote</strong><br><br><em>"Computers are able to see, hear and learn. Welcome to the future."</em><br><br>— Dave Waters</td></tr></table>
-<!-- DAILY_QUOTES_END -->
-
-<br>
-<br>
-
-<!-- MODEL TRAINING STATUS (Versione Stabile Shields.io) -->
-<div align="center">
-  <h3>🧠 Model Training Status:</h3>
-  <!-- Badge verde solido che non si rompe mai -->
-  <img src="https://img.shields.io/badge/TRAINING_PROGRESS-99%25-32cd32?style=for-the-badge&logo=githubactions&logoColor=white" alt="Model Training 99%">
-  <br>
-  <sub>(It's been like this for 3 days...)</sub>
-</div>
-
-<br>
-
-<!-- FOOTER TRAPPOLA -->
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/⛔%20DANGER-DO%20NOT%20CLICK-red?style=for-the-badge" alt="Do Not Click">
-  </a>
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
